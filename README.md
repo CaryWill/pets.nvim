@@ -15,7 +15,11 @@ This plugin relies on [hologram.nvim](https://github.com/edluffy/hologram.nvim) 
 and shares all of its limitations. Here are the most significant ones:
 - Only works with terminal emulators that support the [kitty graphics protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
     To be more precise the only terminal I tested where I was able to have the protocol working correctly is kitty itself.
-- Doesn't currently work inside tmux
+- ~Doesn't currently work inside tmux~
+- Running inside tmux and also create pets in more than 1 neovim instance will make cursor flickering
+
+## TODO
+- popup area not work
 
 ## 📦 Installation
 
