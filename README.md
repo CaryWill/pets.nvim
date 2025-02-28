@@ -20,7 +20,7 @@ and shares all of its limitations. Here are the most significant ones:
   - workaround, disable kitty cursor blinking(cursor_blink_interval 0)
 
 ## TODO
-- popup area not work
+- popup area not work(不然有点太 distracting 了)
 
 ## 📦 Installation
 
